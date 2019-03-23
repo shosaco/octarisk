@@ -22,6 +22,7 @@ details.
 #include <cmath>
 #include <float.h>
 #include <octave/parse.h>
+#include <iostream>
 
 static bool any_bad_argument(const octave_value_list& args);
 

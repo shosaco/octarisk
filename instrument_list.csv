@@ -29,7 +29,7 @@ CapsFloor,Plain Vanilla inflation rate caps and floors,Black|Normal|Analytic
 Cash,Cash,net present value
 Debt,Sensitivity,duration and convexity
 Forward,Bond Forward,payoff
-Forward,Equty Forward,payoff
+Forward,Equity Forward,payoff
 Forward,FX Forward,payoff
 Forward,Equity Future,standardized contract
 Forward,Bond Future,standardized contract
